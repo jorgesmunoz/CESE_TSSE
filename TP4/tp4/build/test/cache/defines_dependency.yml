@@ -1,0 +1,13 @@
+---
+src/leds2.c:
+- TEST
+build/test/mocks/mock_debounce.c:
+- TEST
+build/test/mocks/mock_system_uart.c:
+- TEST
+src/fsm_access_system.c:
+- TEST
+src/leds.c:
+- TEST
+build/test/mocks/mock_leds.c:
+- TEST

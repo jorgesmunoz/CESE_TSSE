@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<TestRun>
+	<FailedTests/>
+	<SuccessfulTests>
+		<Test id="1">
+			<Name>test/test_trabajo_final_fsm.c::test_inicio_del_sistema</Name>
+		</Test>
+		<Test id="2">
+			<Name>test/test_trabajo_final_fsm.c::test_console_state</Name>
+		</Test>
+		<Test id="3">
+			<Name>test/test_trabajo_final_fsm.c::test_button_1</Name>
+		</Test>
+		<Test id="4">
+			<Name>test/test_trabajo_final_fsm.c::test_button_2</Name>
+		</Test>
+		<Test id="5">
+			<Name>test/test_trabajo_final_fsm.c::test_button_3</Name>
+		</Test>
+		<Test id="6">
+			<Name>test/test_trabajo_final_fsm.c::test_button_4</Name>
+		</Test>
+	</SuccessfulTests>
+	<IgnoredTests/>
+	<Statistics>
+		<Tests>6</Tests>
+		<Ignores>0</Ignores>
+		<FailuresTotal>0</FailuresTotal>
+		<Errors>0</Errors>
+		<Failures>0</Failures>
+	</Statistics>
+</TestRun>

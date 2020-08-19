@@ -1,0 +1,38 @@
+---
+:source:
+  :path: test
+  :file: test_trabajo_final_fsm.c
+:successes:
+- :test: test_inicio_del_sistema
+  :line: 41
+  :message: ''
+  :unity_test_time: 0
+- :test: test_console_state
+  :line: 55
+  :message: ''
+  :unity_test_time: 0
+- :test: test_button_1
+  :line: 79
+  :message: ''
+  :unity_test_time: 0
+- :test: test_button_2
+  :line: 108
+  :message: ''
+  :unity_test_time: 0
+- :test: test_button_3
+  :line: 135
+  :message: ''
+  :unity_test_time: 0
+- :test: test_button_4
+  :line: 154
+  :message: ''
+  :unity_test_time: 0
+:failures: []
+:ignores: []
+:counts:
+  :total: 6
+  :passed: 6
+  :failed: 0
+  :ignored: 0
+:stdout: []
+:time: 0.002152027009287849

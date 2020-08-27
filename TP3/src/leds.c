@@ -1,12 +1,12 @@
 #include "leds.h"
 
-
 #define LEDS_ALL_ON         0xFFFF
 #define LEDS_ALL_OFF        0x0000
 #define LEDS_TO_BITS_OFFSET 1
 #define LEDS_BIT_ON         1
 #define FIRST_LED           1
 #define LAST_LED            16
+
 
 static uint16_t * puerto;
 uint16_t estado_puerto;
